@@ -11,10 +11,10 @@ As a particular case study, we chose the Chilean society because, while immigrat
 
 #### References
 
-[1] Jens Hainmueller and Daniel J Hopkins.  Public attitudes toward immigration. Annual Review of Political Science, 17:225–249, 2014.
-[2] Kelsey MacMillan and James D Wilson. Topic supervised non-negative matrix factorization. arXiv preprint arXiv:1706.05084, 2017.
-[3] National Statistics Institute (INE). 2018. Síntesis resultados Censo 2017. url https://www.censo2017.cl/descargas/home/sintesis-de-resultadoscenso2017. pdf
-[4] Thomas F Pettigrew and Linda R Tropp. 2006. A meta-analytic test of intergroup contact theory. Journal of personality and social psychology 90, 5 (2006), 751.
-[5] UN, Population Division (2017) International Migration Report 2017. New York: UN Publications.
-[6] Yann Algan, Christian Dustmann, Albrecht Glitz, and Alan Manning.  The economic situation of first and second-generation immigrants in france, germany and the united kingdom, 2010.
+[1.] Jens Hainmueller and Daniel J Hopkins.  Public attitudes toward immigration. Annual Review of Political Science, 17:225–249, 2014.
+[2.] Kelsey MacMillan and James D Wilson. Topic supervised non-negative matrix factorization. arXiv preprint arXiv:1706.05084, 2017.
+[3.] National Statistics Institute (INE). 2018. Síntesis resultados Censo 2017. url https://www.censo2017.cl/descargas/home/sintesis-de-resultadoscenso2017. pdf
+[4.] Thomas F Pettigrew and Linda R Tropp. 2006. A meta-analytic test of intergroup contact theory. Journal of personality and social psychology 90, 5 (2006), 751.
+[5.] UN, Population Division (2017) International Migration Report 2017. New York: UN Publications.
+[6.] Yann Algan, Christian Dustmann, Albrecht Glitz, and Alan Manning.  The economic situation of first and second-generation immigrants in france, germany and the united kingdom, 2010.
 
