@@ -1,5 +1,6 @@
 
-####Yerka Freire-Vidal, Eduardo Graells-Garrido and Francisco Rowe
+#### Yerka Freire-Vidal, Eduardo Graells-Garrido and Francisco Rowe
+
 [Link](https://dl.acm.org/doi/abs/10.1145/3308560.3316455)
 
 #### Project Abstract
