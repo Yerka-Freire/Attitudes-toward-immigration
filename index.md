@@ -1,4 +1,4 @@
-title: [The title of your site]
+
 # Online Attitudes Toward Immigration
 #### Yerka Freire-Vidal, Eduardo Graells-Garrido y Francisco Rowe
 
