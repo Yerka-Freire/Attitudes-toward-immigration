@@ -1,7 +1,7 @@
 
 #### Yerka Freire-Vidal, Eduardo Graells-Garrido and Francisco Rowe
 
-![figure](C:/Users/Yerka/Desktop/tweet_trends.png)
+![tweet_trends](C:/Users/Yerka/Desktop/tweet_trends.png)
 
 [Link](https://dl.acm.org/doi/abs/10.1145/3308560.3316455)
 
