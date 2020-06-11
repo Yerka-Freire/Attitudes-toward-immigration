@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/Yerka-Freire/Attitudes-toward-immigration/master/network_communities.png" alt="Networks" width="1200px" height="450px">
 
-<img src="https://raw.githubusercontent.com/Yerka-Freire/Attitudes-toward-immigration/master/wordcloud_term_matrices.png" alt="Wordclouds" width="1200px" height="650px">
+<img src="https://raw.githubusercontent.com/Yerka-Freire/Attitudes-toward-immigration/master/wordcloud_term_matrices.png" alt="Wordclouds" width="1200px" height="700px">
 
 
 [Link](https://dl.acm.org/doi/abs/10.1145/3308560.3316455)
