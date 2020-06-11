@@ -2,6 +2,7 @@
 #### Yerka Freire-Vidal, Eduardo Graells-Garrido and Francisco Rowe
 
 ![Networks](https://raw.githubusercontent.com/Yerka-Freire/Attitudes-toward-immigration/master/network_communities.png)
+![wordclouds](https://raw.githubusercontent.com/Yerka-Freire/Attitudes-toward-immigration/master/wordcloud_term_matrices.png)
 
 [Link](https://dl.acm.org/doi/abs/10.1145/3308560.3316455)
 
