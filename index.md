@@ -1,9 +1,9 @@
 
 #### Yerka Freire-Vidal, Eduardo Graells-Garrido and Francisco Rowe
 
-<img src="https://raw.githubusercontent.com/Yerka-Freire/Attitudes-toward-immigration/master/network_communities.png" alt="Networks" width="1200px" height="400px">
+<img src="https://raw.githubusercontent.com/Yerka-Freire/Attitudes-toward-immigration/master/network_communities.png" alt="Networks" width="1200px" height="300px">
 
-[Link](https://dl.acm.org/doi/abs/10.1145/3308560.3316455)
+To access the paper see the following: [Link](https://dl.acm.org/doi/abs/10.1145/3308560.3316455)
 
 ### Project Abstract
 
