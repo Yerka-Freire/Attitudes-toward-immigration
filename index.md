@@ -1,5 +1,5 @@
 
-#### Authors: Yerka Freire-Vidal, Eduardo Graells-Garrido [Link](http://datagramas.cl/) and Francisco Rowe [Link](http://www.franciscorowe.com/)
+#### Authors: Yerka Freire-Vidal, Eduardo Graells-Garrido ([Link](http://datagramas.cl/)) and Francisco Rowe ([Link](http://www.franciscorowe.com/))
 
 <img src="https://raw.githubusercontent.com/Yerka-Freire/Attitudes-toward-immigration/master/network_communities.png" alt="Networks" width="1200px" height="250px">
 
